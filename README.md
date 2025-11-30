@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Varuna ChatBot**
 
-- 🌱 I’m currently learning **DevOps, Fullstack Developement**
+- 🌱 I’m currently learning **Data Science, Fullstack Developement**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-website-peach-seven.vercel.app/](https://personal-portfolio-website-peach-seven.vercel.app/)
 
