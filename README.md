@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas Mene</h1>
 <h3 align="center">A passionate MERN Stack Developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasmene06&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasmene06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=shreyasmene06)](https://github.com/ryo-ma/github-profile-trophy)" alt="shreyasmene06" /></a> </p>
+<img src="/header.png" alt="Description of the image">
 
 - 🔭 I’m currently working on **Varuna ChatBot**
 
