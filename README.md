@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science, Fullstack Developement**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-website-peach-seven.vercel.app/](https://personal-portfolio-website-peach-seven.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://personal-portfolio-website-peach-seven.vercel.app/](https://shreyasmene06.github.io/portfolio/)]([https://personal-portfolio-website-peach-seven.vercel.app/](https://shreyasmene06.github.io/portfolio/))
 
 - 💬 Ask me about **React, MongoDB, etc.**
 
