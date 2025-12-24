@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shreyas Mene</h1>
 <h3 align="center">A passionate MERN Stack Developer From India</h3>
 
 <img src="/header.png" alt="Description of the image">
