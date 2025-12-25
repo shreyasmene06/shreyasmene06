@@ -2,7 +2,7 @@
 
 <img src="/header.png" alt="Description of the image">
 
-- 🔭 I’m currently working on **HomeLab Automation**
+- 🔭 I’m currently working on **VaxTrust**
 
 - 🌱 I’m currently learning **Data Science, Fullstack Developement**
 
