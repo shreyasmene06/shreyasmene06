@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science, Fullstack Developement**
 
-- 👨‍💻 All of my projects are available at [https://shreyasmene06.github.io/portfolio/](https://shreyasmene06.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://shreyasmene.in](https://shreyasmene.in)
 
 - 💬 Ask me about **React, MongoDB, etc.**
 
@@ -93,6 +93,18 @@
     <td align="center" width="50%">
       <a href="https://github.com/shreyasmene06/portfolio">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shreyasmene06&repo=portfolio&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="portfolio" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/HyprrStack/Vaxtrust.git">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HyprrStack&repo=Vaxtrust&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="OmarchyMadeEasy" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/shreyasmene06/WordTex">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shreyasmene06&repo=WordTex&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="portfolio" width="100%"/>
       </a>
     </td>
   </tr>
